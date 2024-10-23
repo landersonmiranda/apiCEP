@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XSKzPSoluBwess+8OQxe+vB/LFIADUbsQ6UYtqy4aEGPAjGn8DyPAj7UL7SYlCHLX24oAEciX4+4i1ukfJnGvg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\landersonMiranda\\OneDrive\\Área de Trabalho\\Estudos\\csharp\\apiCEP\\ProjetoCep\\ProjetoCep.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\landersonMiranda\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

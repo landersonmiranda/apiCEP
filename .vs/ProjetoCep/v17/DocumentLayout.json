@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\landersonMiranda\\OneDrive\\\u00C1rea de Trabalho\\Estudos\\csharp\\apiCEP\\ProjetoCep\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F2FA5315-85CC-48DE-AB18-FB350261C458}|ProjetoCep.csproj|c:\\users\\landersonmiranda\\onedrive\\\u00E1rea de trabalho\\estudos\\csharp\\apicep\\projetocep\\controllers\\cepcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2FA5315-85CC-48DE-AB18-FB350261C458}|ProjetoCep.csproj|solutionrelative:controllers\\cepcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2FA5315-85CC-48DE-AB18-FB350261C458}|ProjetoCep.csproj|c:\\users\\landersonmiranda\\onedrive\\\u00E1rea de trabalho\\estudos\\csharp\\apicep\\projetocep\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2FA5315-85CC-48DE-AB18-FB350261C458}|ProjetoCep.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2FA5315-85CC-48DE-AB18-FB350261C458}|ProjetoCep.csproj|c:\\users\\landersonmiranda\\onedrive\\\u00E1rea de trabalho\\estudos\\csharp\\apicep\\projetocep\\views\\cep\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F2FA5315-85CC-48DE-AB18-FB350261C458}|ProjetoCep.csproj|solutionrelative:views\\cep\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2FA5315-85CC-48DE-AB18-FB350261C458}|ProjetoCep.csproj|c:\\users\\landersonmiranda\\onedrive\\\u00E1rea de trabalho\\estudos\\csharp\\apicep\\projetocep\\models\\endereco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2FA5315-85CC-48DE-AB18-FB350261C458}|ProjetoCep.csproj|solutionrelative:models\\endereco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\landersonMiranda\\OneDrive\\\u00C1rea de Trabalho\\Estudos\\csharp\\apiCEP\\ProjetoCep\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\landersonMiranda\\OneDrive\\\u00C1rea de Trabalho\\Estudos\\csharp\\apiCEP\\ProjetoCep\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T18:09:45.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\landersonMiranda\\OneDrive\\\u00C1rea de Trabalho\\Estudos\\csharp\\apiCEP\\ProjetoCep\\Views\\Cep\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Cep\\Index.cshtml",
+              "ToolTip": "C:\\Users\\landersonMiranda\\OneDrive\\\u00C1rea de Trabalho\\Estudos\\csharp\\apiCEP\\ProjetoCep\\Views\\Cep\\Index.cshtml",
+              "RelativeToolTip": "Views\\Cep\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-23T17:52:35.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CepController.cs",
+              "DocumentMoniker": "C:\\Users\\landersonMiranda\\OneDrive\\\u00C1rea de Trabalho\\Estudos\\csharp\\apiCEP\\ProjetoCep\\Controllers\\CepController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CepController.cs",
+              "ToolTip": "C:\\Users\\landersonMiranda\\OneDrive\\\u00C1rea de Trabalho\\Estudos\\csharp\\apiCEP\\ProjetoCep\\Controllers\\CepController.cs",
+              "RelativeToolTip": "Controllers\\CepController.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAmwDAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T17:48:34.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Endereco.cs",
+              "DocumentMoniker": "C:\\Users\\landersonMiranda\\OneDrive\\\u00C1rea de Trabalho\\Estudos\\csharp\\apiCEP\\ProjetoCep\\Models\\Endereco.cs",
+              "RelativeDocumentMoniker": "Models\\Endereco.cs",
+              "ToolTip": "C:\\Users\\landersonMiranda\\OneDrive\\\u00C1rea de Trabalho\\Estudos\\csharp\\apiCEP\\ProjetoCep\\Models\\Endereco.cs",
+              "RelativeToolTip": "Models\\Endereco.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T17:52:02.792Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

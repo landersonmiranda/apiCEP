@@ -1,0 +1,19 @@
+﻿@model string
+
+@{
+    ViewBag.Title = "Consulta CEP";
+}
+
+<h2>Consulta CEP</h2>
+
+@using (Html.BeginForm("ConsultaCep", "Cep", FormMethod.Post))
+{
+    <label for="cep">CEP:</label>
+    <input type="text" id="cep" name="cep" />
+    <input type="submit" value="Consultar" />
+}
+
+@if (ViewBag.Error != null)
+{
+    <p style="color:red">@ViewBag.Error</p>
+}

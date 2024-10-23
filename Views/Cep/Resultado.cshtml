@@ -1,0 +1,56 @@
+﻿@model ProjetoCep.Models.Endereco
+
+@{
+    ViewBag.Title = "Resultado da Consulta CEP";
+}
+
+<h2>Resultado da Consulta CEP</h2>
+
+<table>
+    <tr>
+        <th>Campo</th>
+        <th>Valor</th>
+    </tr>
+    <tr>
+        <td>CEP:</td>
+        <td>@Model.Cep</td>
+    </tr>
+    <tr>
+        <td>Logradouro:</td>
+        <td>@Model.Logradouro</td>
+    </tr>
+    <tr>
+        <td>Complemento:</td>
+        <td>@Model.Complemento</td>
+    </tr>
+    <tr>
+        <td>Bairro:</td>
+        <td>@Model.Bairro</td>
+    </tr>
+    <tr>
+        <td>Localidade:</td>
+        <td>@Model.Localidade</td>
+    </tr>
+    <tr>
+        <td>UF:</td>
+        <td>@Model.Uf</td>
+    </tr>
+    <tr>
+        <td>IBGE:</td>
+        <td>@Model.Ibge</td>
+    </tr>
+    <tr>
+        <td>GIA:</td>
+        <td>@Model.Gia</td>
+    </tr>
+    <tr>
+        <td>DDD:</td>
+        <td>@Model.Ddd</td>
+    </tr>
+    <tr>
+        <td>SIAFI:</td>
+        <td>@Model.Siafi</td>
+    </tr>
+</table>
+
+<a href="@Url.Action("Index", "Cep")">Nova Consulta</a>
